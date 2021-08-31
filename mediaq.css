@@ -1,0 +1,369 @@
+
+@media (max-width : 1025px)
+{}
+@media (max-width : 320px)
+{
+
+    .header .top-header .col-top-header
+    {
+        width: 100%;
+        height: auto;
+        display: inline-block;
+        text-align: center;
+        padding: 0 0 5px 0;
+    }
+
+    .header .top-header .col-top-header2
+    {
+        width: 100%;
+        height: auto;
+        text-align: center;
+        display: inline-block;
+        padding: 0 0 5px 0;
+        margin-top: 0px;
+    }
+
+
+    .header .top-header .col-top-header3 ul
+    {
+        width: 100%;
+        height: auto;
+        text-align: center;
+        display: inline-block;
+    }
+    .header .top-header .col-top-header3 .rss li
+    {
+        border-right: 1px solid white;
+        list-style: none;
+        display: inline-block;
+        padding: 0;
+    }
+    .header .bottom-header .col-bottom-header .search-container
+    {
+        text-align: center;
+    }
+    .bottom-header .col-bottom-header3
+    {
+        width: 100%;
+        text-align: center;
+        margin-top: 35px;
+    }
+
+    .carousel-inner .img-content p
+    {
+        width: 100%;
+        height: auto;
+        display: inline-block;
+        font-size: 9px;
+        font-weight: bold;
+        color: #4E4E4E;
+        margin: 0;
+    }
+    .carousel-inner .img-content h1
+    {
+        width: 100%;
+        height: auto;
+        display: inline-block;
+        color: #AF565F;
+        font-size: 23px;
+    }
+    .carousel-inner .img-content
+    {
+        width: 100%;
+        height: auto;
+        display: inline-block;
+        position: absolute;
+        top: 12%;
+        left: 7%;
+        max-width: 46%;
+    }
+    .cover-one-section .text-one-section
+    {
+        padding: 0;
+    }
+    .cover-one-section .text-one-section .p1-one
+    {
+        font-size: 20px;
+    }
+    .cover-one-section .text-one-section .p2-one
+    {
+        font-size: 14px;
+    }
+    .btn-one-section
+    {
+        padding: 30px 0 30px 0;
+    }
+    .div-pic1
+    {
+        margin-bottom: 50px;
+    }
+    .div-pic3
+    {
+        margin-bottom: 50px;
+    }
+    .lush-product-group .pic1
+    {
+        margin-bottom: 50px;
+    }
+    .lush-product-group .pic4
+    {
+        margin-bottom: 50px;
+    }
+    .lush-product-group .pic3
+    {
+        margin-bottom: 50px;
+    }
+    .lush-product-group
+    {
+        text-align: center;
+    }
+    .product-benefits .img-cover .groups
+    {
+        background: #ffe1e4;
+        margin-top: 85px;
+    }
+    .product-benefits .img-cover
+    {
+        padding: 0;
+    }
+    .best-offers-section
+    {
+        text-align: -webkit-center;
+    }
+    .best-offers-section .best-offers-list2-sec
+    {
+        text-align: -webkit-center;
+        margin-bottom: 50px;
+    }
+    .best-offers-list1-sec .pic1-content-pic1
+    {
+        right: 0px;
+        bottom: 42%;
+    }
+    .img-text-one-section button
+    {
+        margin: 25px 0 50px 0;
+    }
+    .best-offers-section .arrow22
+    {
+        left: 84%;
+    }
+    .best-offers-section .btn-best-offers-section
+    {
+        padding: 0;
+    }
+    .best-offers-section .best-offers-list1-sec
+    {
+        margin-bottom: 50px;
+    }
+    .best-offers-section .best-offers-list3-sec
+    {
+        margin-bottom: 50px;  
+    }
+    .img-clients-company .arrow111
+    {
+        left: 10%;
+    }
+    .img-clients-company .arrow222
+    {
+        left: 70%;
+    }
+    .text1-last-banner-section p
+    {
+        width: 95%;
+    font-size: 11px;
+    font-weight: bold;
+    color: #AEADAD;
+    }
+
+    .text2-last-banner-section p
+    {
+        font-size: 8px;
+    }
+    .last-banner-section .multiple1-cover1-last-banner-section .text2-last-banner-section
+    {
+        top: 0%;
+    }
+    .last-banner-section .multiple2-cover1-last-banner-section .text3-last-banner-section
+    {
+        top: 0%;
+    }
+    .text3-last-banner-section p
+    {
+        font-size: 8px;
+    }
+    .last-banner-section .cover1-last-banner-section
+    {
+        margin-bottom: 50px;
+    }
+    .discover-two-section .img1-text1-discover-section .text1-discover2-section
+    {
+        top:0px;
+    }
+    .discover-two-section .img2-text1-discover-section .text2-discover2-section
+    {
+        top:0px;
+    }
+    .discover-two-section .img3-text1-discover-section .text3-discover2-section
+    {
+        top:0px;
+    }
+
+      
+   .input
+   {
+     display: none;
+   }
+ 
+   .absolute
+   {
+       position: absolute;
+       right: 20px;
+     
+   }
+   .fa-bars
+   {
+       font-size: 30px;
+       transform: scaleX(1.5);
+       color: white;
+   }
+
+   .show-on-click
+   {
+       display: none;
+   }
+
+   #menu:checked + .show-on-click
+   {
+       display: block;
+   }
+   .content
+   {
+       display: none;
+   }
+   .show-when-moblie
+   {
+       display: block;
+       text-align: center;
+   }
+   .show-when-moblie ul
+   {
+   padding-inline-start: 0;
+   }
+   .show-on-click ul 
+   {
+       list-style: none;  
+   }
+
+   .show-on-click ul li a
+   {
+       color: white;
+       text-decoration: none;
+   }
+   .show-on-click ul li 
+   {
+       padding: 10px 0;
+   }
+   .show-on-click ul li a:hover
+   {
+       color: red;
+       text-decoration: none;
+   }
+   .header .top-header .col-top-header3 .rss a
+   {
+    margin: 2px;
+    font-size: 10px;
+   }
+
+   input#menu {
+    display: none;
+}
+.custome-container
+{
+    max-width: 1300px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
+.custome-container2
+{
+    max-width: 1400px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
+.custome-container3
+{
+    max-width: 1300px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
+.custome-container4
+{
+    max-width: 1480px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0 15px;
+}
+.discover-two-section2
+{
+    padding: 0 15px;
+}
+
+.text1-discover2-section h1
+{   
+    font-size: 13px;
+
+}
+
+.text1-discover2-section h2
+{   
+    font-size: 12px;
+    color: #585858;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+
+.text2-discover2-section h1
+{
+    font-size: 13px;
+}
+.text2-discover2-section h2
+{
+    font-size: 12px;
+    color: #585858;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+}
+
+
+.text3-discover2-section h1
+{
+    font-size: 13px;
+}
+.text3-discover2-section h2
+{
+    font-size: 12px;
+    color: #585858;
+    font-weight: 600;
+    padding: 0;
+    margin: 0;
+
+}
+
+.discover-two-section .discover-two-section2
+{
+    position: absolute;
+    bottom: -150px;
+}
+}
+@media (min-width : 321px) and (max-width : 426px)
+{}
+@media (min-width : 427px) and (max-width : 769px)
+{}
+@media (min-width : 769px) and (max-width : 1024px)
+{}
